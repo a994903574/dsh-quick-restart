@@ -1,5 +1,7 @@
 # dsh-quick-restart
 
+![标题栏上的「重载插件」与「重启」按钮](images/titlebar.png)
+
 给 **DeepSeek Harness（DSH）** 标题栏加两个按钮：**重载插件代码**（不用关程序）和 **重启 DSH**。
 
 > 中文为主，末尾有简短的 English 说明。
@@ -22,7 +24,7 @@ https://github.com/a994903574/dsh-quick-restart/releases/download/v0.1.1/dsh-qui
 
 把这个地址填进 DSH 的插件安装入口即可（和装其它第三方插件一样）。
 
-### 方式二：从市场装
+### 方式二：从 npm 市场装（尚未发布，等账号开通）
 
 DSH 设置页 →「插件」→ 搜索 `dsh-quick-restart` → 安装 → **完全退出 DSH 再打开**（首次必须，按钮要用宿主启动时的注入表）。
 
